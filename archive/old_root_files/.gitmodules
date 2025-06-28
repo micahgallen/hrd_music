@@ -1,0 +1,3 @@
+[submodule "code/hrd_metacog"]
+	path = code/hrd_metacog
+	url = https://github.com/embodied-computation-group/hrd_metacog.git
